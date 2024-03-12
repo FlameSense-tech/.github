@@ -8,5 +8,5 @@ FlameSense Technologies es un sistema compuesto por IA y Pods que te permiten te
 
 - Co-Founder - Maximiliano Militzer
 - Co-Founder - Samuel Lira
-- Hardware Chief - Martin Muñoz
-- Software Chief - 
+- Hardware Chief - Jorge Castillo
+- Software Chief - Matias Beuchat
